@@ -1,7 +1,7 @@
 [datasets]
-git-tree-sha1 = "c381ee8dda80556d3e2b5d27e1de92a943cd26f2"
+git-tree-sha1 = "9dd5d2228356e78614129f6ab69602354797172d"
 lazy = true
 
     [[datasets.download]]
-    sha256 = "eaa5c63ebe7cc2d882ed905cc353fbffd4bd38c65330301f8df9e3c473b8cff6"
+    sha256 = "509bcc935056b2b1007b3e58e20beeda7623464b4f78636f178c1d8dd41570bd"
     url = "https://github.com/dvillacis/TestDatasets/releases/download/v0.1.0-artifact/datasets_0.1.0.tar.gz"
