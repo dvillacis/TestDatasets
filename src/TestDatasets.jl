@@ -1,6 +1,7 @@
 module TestDatasets
 
 using FileIO
+using ColorTypes: Gray
 using Pkg.Artifacts
 using StringDistances
 
