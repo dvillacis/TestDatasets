@@ -4,4 +4,4 @@ lazy = true
 
     [[datasets.download]]
     sha256 = "eaa5c63ebe7cc2d882ed905cc353fbffd4bd38c65330301f8df9e3c473b8cff6"
-    url = "https://storage.googleapis.com/pagina-personal.appspot.com/datasets.tar.gz"
+    url = "https://github.com/dvillacis/TestDatasets/releases/download/v0.1.0-artifact/datasets_0.1.0.tar.gz"
